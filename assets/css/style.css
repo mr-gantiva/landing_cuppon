@@ -17,7 +17,7 @@
   font-family: "Roboto", sans-serif;
 }
 
-.bg-body-tertiary {
+.navbar {
   background: var(--bg-header) !important;
 }
 
@@ -67,7 +67,7 @@
 .container .card-container .card .card-body .box-ubicacion {
   display: flex;
   font-size: var(--text-ubicacion);
-  border-bottom: 1px solid #DDDDDD;
+  border-bottom: 1px solid #dddddd;
   min-height: 37px;
 }
 .container .card-container .card .card-body .box-ubicacion i {
@@ -150,4 +150,4 @@
   .container .card-container {
     justify-content: center;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
