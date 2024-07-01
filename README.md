@@ -2,6 +2,9 @@
 
 Cuppon es una plataforma en línea que ofrece descuentos y ofertas en una variedad de productos y servicios. Permite a los usuarios encontrar y aprovechar ofertas exclusivas en restaurantes, actividades de ocio, productos de consumo y más. Esta es una página demo web que utiliza HTML, CSS (Sass), Bootstrap y Font Awesome.
 
+## Demo
+Puedes ver la página en vivo aquí: [Landing Cuppon](https://mr-gantiva.github.io/landing_cuppon/)
+
 ![Vista Desktop](./assets/img/landing_cuppon.webp)
 ![Vista Mobile](./assets/img/landing_cuppon_mobile.webp)
 
